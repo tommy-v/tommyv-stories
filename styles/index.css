@@ -9,3 +9,8 @@ ol {
 ul {
   list-style: disc
 }
+
+body {
+  color: white;
+  background-color: black;
+}
