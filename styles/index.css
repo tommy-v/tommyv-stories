@@ -3,11 +3,13 @@
 @tailwind utilities;
 
 ol {
-  list-style: decimal
+  list-style: decimal;
+  padding: 20px;
 }
 
 ul {
-  list-style: disc
+  list-style: disc;
+  padding: 20px;
 }
 
 body {

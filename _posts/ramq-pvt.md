@@ -128,13 +128,13 @@ Qu'avons-nous appris aujourd'hui ?
 
 ⚠️ Les références citées ci-dessous sont valables le 10 janvier 2022 à 00h07.
 
-* [https://ceoworld.biz/2021/04/27/revealed-countries-with-the-best-health-care-systems-2021/](https://ceoworld.biz/2021/04/27/revealed-countries-with-the-best-health-care-systems-2021/)
-* [https://www.socialsecurity.be/CMS/fr/leaving_belgium/index.html](https://www.socialsecurity.be/CMS/fr/leaving_belgium/index.html)
-* [https://www.bruxelles.be/depart-letranger](https://www.bruxelles.be/depart-letranger)
-* href="[https://www.wikifin.be/fr/logement-et-emprunt-hypothecaire/changement-dadresse-demenagement/quelles-formalites-devez-vous](https://www.wikifin.be/fr/logement-et-emprunt-hypothecaire/changement-dadresse-demenagement/quelles-formalites-devez-vous)
-* [https://canada.diplomatie.belgium.be/fr/services-consulaires/inscription](https://canada.diplomatie.belgium.be/fr/services-consulaires/inscription)
-* [https://www.ramq.gouv.qc.ca/fr/citoyens/assurance-maladie/connaitre-conditions-admissibilite-au-regime-public/na_admissibilite_r5_q1r2](https://www.ramq.gouv.qc.ca/fr/citoyens/assurance-maladie/connaitre-conditions-admissibilite-au-regime-public/na_admissibilite_r5_q1r2)
-* [https://maplr.co/systeme-sante-canada-quebec-pvt](https://maplr.co/systeme-sante-canada-quebec-pvt)
+* [ceoworld.biz, countries with best health care systems 2021](https://ceoworld.biz/2021/04/27/revealed-countries-with-the-best-health-care-systems-2021/)
+* [socialsecurity.be, leaving belgium](https://www.socialsecurity.be/CMS/fr/leaving_belgium/index.html)
+* [bruxelles.be, depart letranger](https://www.bruxelles.be/depart-letranger)
+* [wikifin.be, quelles formalites](https://www.wikifin.be/fr/logement-et-emprunt-hypothecaire/changement-dadresse-demenagement/quelles-formalites-devez-vous)
+* [canada.diplomatie.belgium.be, services consulaires inscription](https://canada.diplomatie.belgium.be/fr/services-consulaires/inscription)
+* [ramq.gouv.qc.ca, conditions admissibilite regime public](https://www.ramq.gouv.qc.ca/fr/citoyens/assurance-maladie/connaitre-conditions-admissibilite-au-regime-public/na_admissibilite_r5_q1r2)
+* [maplr.co, systeme sante canada quebec](https://maplr.co/systeme-sante-canada-quebec-pvt)
 
 Any questions? Suggestions? Hésite pas à m'écrire sur IG **[@vdct7](https://www.instagram.com/vdct7)** ou MP
   sur Twitter **[@ThomasVandercam](https://twitter.com/ThomasVandercam)**
